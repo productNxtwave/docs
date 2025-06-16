@@ -31,6 +31,19 @@
               "ProgramStructureandPolicies/ProgramPolicies",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "My Growth Hub",
+            "pages": [
+              "MyGrowthHub/EngagementActivities",
+              "MyGrowthHub/EventPage",
+              "MyGrowthHub/ParentsMeet",
+              "MyGrowthHub/MonthlyReport",
+              "MyGrowthHub/DSACodeVerse",
+              "MyGrowthHub/AcademyPodcasts",
+              "MyGrowthHub/CodingChallenges",
+              "MyGrowthHub/MegaWorkshops"
+            ]
           }
         ]
       }
