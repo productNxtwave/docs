@@ -26,9 +26,9 @@
             "pages": [
               "ProgramStructureandPolicies/AcademyProgramDetails",
               "ProgramStructureandPolicies/ProgramOfferings",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
+              "ProgramStructureandPolicies/YourLearningJourney",
+              "ProgramStructureandPolicies/ProgramChangeInfo",
+              "ProgramStructureandPolicies/ProgramPolicies",
               "essentials/reusable-snippets"
             ]
           }
