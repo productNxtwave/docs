@@ -22,9 +22,9 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Program Structure & Policies",
             "pages": [
-              "essentials/markdown",
+              "ProgramStructureandPolicies/AcademyProgramDetails",
               "essentials/code",
               "essentials/images",
               "essentials/settings",
